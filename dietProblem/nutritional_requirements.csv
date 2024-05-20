@@ -1,0 +1,4 @@
+Constraint,Type,Value
+Calories,GE,2000
+Protein,GE,50
+Fat,LE,70
